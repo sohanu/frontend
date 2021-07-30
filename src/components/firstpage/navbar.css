@@ -1,0 +1,22 @@
+.navbar-box{
+    background-color: rgb(143, 3, 3);
+    padding: 20px;
+}
+.navbar-head{
+    text-align: center;
+}
+.navbar-head1{
+    display: inline;
+    color: white;
+    text-transform: uppercase;
+}
+.navbar-cart{
+    display: inline;
+    float: right;
+}
+.navbar-cart span{
+    color: white;
+}
+.navbar-cart span:last-child{
+    margin-left: 10px;
+}

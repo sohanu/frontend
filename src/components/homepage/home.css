@@ -1,0 +1,25 @@
+.home {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.home a{
+    color: black;
+    text-decoration: none;
+}
+.home-imgbox {
+    box-shadow: 1px 3px 6px #888888;;
+    width: 200px;
+    height: 200px;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+    margin-right: 30px;
+    border-radius: 10px;
+}
+
+.home-imgbox img {
+    height: 120px;
+    width: 120px;
+}
